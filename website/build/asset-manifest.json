@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactLive/static/css/main.24c0a8de.css",
+    "main.js": "/reactLive/static/js/main.71cedca7.js",
+    "static/media/home.jpg": "/reactLive/static/media/home.af43b61aa26869815f3e.jpg",
+    "static/media/about.jpg": "/reactLive/static/media/about.a8b802fb592b19834cf5.jpg",
+    "index.html": "/reactLive/index.html",
+    "main.24c0a8de.css.map": "/reactLive/static/css/main.24c0a8de.css.map",
+    "main.71cedca7.js.map": "/reactLive/static/js/main.71cedca7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24c0a8de.css",
+    "static/js/main.71cedca7.js"
+  ]
+}
