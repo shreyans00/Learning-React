@@ -1,0 +1,30 @@
+a{
+  color:skyblue;
+  text-decoration: none;
+}
+
+a.active_class{
+  color: white;
+  border-bottom:  1px solid rgb(255, 255, 255);
+}
+
+.menu_style{
+  width: 100%;
+  line-height: 60px;
+  background-color: rgb(16, 0, 64);
+  display: flex;
+  justify-content: space-around;
+}
+
+.searchbar {
+  width:50%;
+  height: auto;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.searchbar input {
+  margin:30px 0;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
